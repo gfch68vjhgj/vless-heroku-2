@@ -1,7 +1,7 @@
 # vless-heroku
 Deploy vless on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/thin3ver2021/vless-heroku.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/gfch68vjhgi/hhvv-2.git)
 
 # VLESS Client Setup
 
